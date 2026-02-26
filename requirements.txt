@@ -1,0 +1,4 @@
+deepl
+python-dotenv
+PyMuPDF
+deep-translator
